@@ -11,3 +11,11 @@ exit status
 quotes
 redirectors
 sed editor
+
+
+linux
+aws
+putty
+intellij
+git hub
+git bash
