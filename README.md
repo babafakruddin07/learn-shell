@@ -8,3 +8,6 @@ conditions
 loops
 inputs
 exit status
+quotes
+redirectors
+sed editor
