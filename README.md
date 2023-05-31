@@ -19,3 +19,6 @@ putty
 intellij
 git hub
 git bash
+
+hello 
+baba fakruddin
